@@ -1,0 +1,6 @@
+files
+owlcat.debhelper.log
+owlcat.postinst.debhelper
+owlcat.prerm.debhelper
+owlcat.substvars
+owlcat/

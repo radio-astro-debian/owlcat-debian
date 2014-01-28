@@ -1,0 +1,13 @@
+Source: owlcat
+Section: python
+Priority: extra
+Maintainer: Gijs Molenaar <gijs@pythonic.nl>
+Build-Depends: debhelper (>= 8.0.0), python-all
+Standards-Version: 3.9.2
+Homepage: https://github.com/ska-sa/owlcat
+X-Python-Version: 2.7
+
+Package: owlcat
+Architecture: any
+Depends: ${python:Depends}, ${misc:Depends}
+Description: TODO
