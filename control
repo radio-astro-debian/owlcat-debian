@@ -7,7 +7,7 @@ Standards-Version: 3.9.2
 Homepage: https://github.com/ska-sa/owlcat
 X-Python-Version: 2.7
 
-Package: owlcat
+Package: python-owlcat
 Architecture: any
-Depends: ${python:Depends}, ${misc:Depends}
-Description: TODO
+Depends: ${python:Depends}, ${misc:Depends}, python-pyfits, numpy, python-matplotlib, pyrap, python-kittens
+Description: miscellaneous utility scripts for manipulating radio interferometry data
