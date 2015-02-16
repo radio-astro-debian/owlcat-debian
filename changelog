@@ -1,3 +1,9 @@
+owlcat (1.3.2-1trusty) trusty; urgency=medium
+
+  * new upstream release
+
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Mon, 16 Feb 2015 12:43:35 +0200
+
 owlcat (1.3.1-2trusty) trusty; urgency=medium
 
   * switch to new PPA
