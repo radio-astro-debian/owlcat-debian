@@ -1,35 +1,5 @@
-owlcat (1.3.2-1trusty) trusty; urgency=medium
+owlcat (1.3.4-2trusty) trusty; urgency=medium
 
-  * new upstream release
+  * switch to python-casacore
 
- -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Mon, 16 Feb 2015 12:43:35 +0200
-
-owlcat (1.3.1-2trusty) trusty; urgency=medium
-
-  * switch to new PPA
-
- -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Tue, 27 Jan 2015 09:39:17 +0000
-
-owlcat (1.3.1-1trusty) trusty; urgency=low
-
-  * build for trusty
-
- -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 04 Apr 2014 14:17:49 +0200
-
-owlcat (1.3.1-2precise1) precise; urgency=low
-
-  * fix dependency issue
-
- -- Gijs Molenaar <gijs@pythonic.nl>  Thu, 30 Jan 2014 14:57:13 +0200
-
-owlcat (1.3.1-1precise1) precise; urgency=low
-
-  *  new upstream release
-
- -- Gijs Molenaar <gijs@pythonic.nl>  Thu, 30 Jan 2014 12:44:30 +0200
-
-owlcat (1.3.0-1precise1) precise; urgency=low
-
-  * Initial release
-
- -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 28 Jan 2014 14:35:59 +0200
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Tue, 14 Jul 2015 17:42:34 +0200

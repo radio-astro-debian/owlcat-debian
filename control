@@ -10,5 +10,5 @@ X-Python-Version: 2.7
 Package: python-owlcat
 Architecture: any
 Depends: ${python:Depends}, ${misc:Depends}, python-pyfits, python-numpy, python-matplotlib,
- python-pyrap, python-kittens, python-meqtrees-cattery
+ python-casacore, python-kittens, python-meqtrees-cattery
 Description: miscellaneous utility scripts for manipulating radio interferometry data
